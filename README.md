@@ -1,2 +1,4 @@
 # Analisis de ventas y productos en Instacart
 Se analiza el comportamiento de las compras efectuadas por los clientes en la plataforma digital Instacart y de sus mejores productos basado en los margenes de ganancia y el volumen de ventas.
+Se realiza la limpieza y estandarizacion de los datos en el conjunto de datos constituido por cinco tablas, identificando errores en el registro de datos, buscando y eliminando los datos duplicados para proceder con el analisis del volumen de ventas realizado por día de la semana y hora, el comportamiento de como los clientes realizan sus compras y pedidos, y detectando los productos mas populares.
+Se añaden graficas para representar los datos de una manera mas visual.
